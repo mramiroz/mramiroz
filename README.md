@@ -19,10 +19,3 @@ Software engineer in Madrid. I build web products end to end and keep them runni
 ## Background
 
 42 Madrid (C) · Higher vocational degree in Web Application Development (DAW) · Stripe Certified Professional Developer
-
-Por qué está así:
-- En inglés, porque GitHub lo leen equipos de cualquier país.
-- Primero lo que haces y después las herramientas, igual que en la web.
-- Sin tono de búsqueda de trabajo. Lo pueden leer tus compañeros de Vass sin problema, como pasaba con el post.
-- Sin insignias. La lista de tecnologías en texto se lee más rápido.
-Para cambiarlo: abre github.com/mramiroz/mramiroz, edita el README.md, pega es que lo suba yo, dímelo: puedo clonar el repositorio con tu clave SSH yhacer el commit.
